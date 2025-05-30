@@ -1,20 +1,15 @@
 # Hey, I'm Harish 👋
 ### I turn data into decisions — and dashboards into strategy.
-
 ---
 
 ### 🧭 Who I Am
-
 I'm a **Data Analyst** who crafts insight from complexity.  
 From **raw sensor streams** to **academic logs**, I enjoy decoding patterns that make real change — whether it's reducing downtime at plants or giving educators the KPIs they actually need.
-
-No fluff. No noise. Just **useful, trusted data** delivered the way it should be.
+Just **useful, trusted data** delivered the way it should be.
 
 ---
 
-### 🔧 Tools That Power My Work
-
-I don't believe in buzzwords — I believe in results.  
+### 🔧 Tools That Power My Work 
 These are the tools I use to get them:
 
 <p align="center">
@@ -38,16 +33,6 @@ These are the tools I use to get them:
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
-
----
-
-### 🔎 How I Think
-
-> “Data isn't the new oil — it's the new compass.  
-> If you're not steering with it, you're just drifting.”
-
-I design systems that help teams **act**, not just observe.  
-I prefer action-driven dashboards, **real-time visibility**, and models that know what matters — and why.
 
 ---
 
