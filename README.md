@@ -1,6 +1,4 @@
 # Hey, I'm Harish 👋
-### I turn data into decisions — and dashboards into strategy.
-
 
 ### 🧭 Who I Am
 
@@ -53,7 +51,6 @@ No boilerplate. No empty folders.
 ### 📫 Let’s Collaborate
 
 I'm always up for:
-
 - Building something impactful with data  
 - Collaborating on open-source BI tools  
 - Brainstorming dashboard ideas over coffee ☕
