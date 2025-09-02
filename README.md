@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harish Nidamaneni</h1>
+<h1 align="center">Hi 👋, I'm Harish </h1>
 <h3 align="center">AI/ML Engineer | Generative AI & RAG | Data Science | Open to Opportunities</h3>
 
 <p align="center">
